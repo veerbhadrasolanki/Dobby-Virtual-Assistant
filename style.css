@@ -1,0 +1,14 @@
+p{
+  display: block;
+  margin: auto;
+}
+
+nav{
+  padding-left: 55px !important;
+  padding-right: 55px !important;
+}
+
+.font{
+  font-family: 'Patrick Hand', cursive;
+  font-style: italic;
+}
